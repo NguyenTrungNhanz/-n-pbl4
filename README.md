@@ -1,1 +1,1 @@
-# -n-pbl4
+# Đồ án nhận dạngsử dụng CNN
